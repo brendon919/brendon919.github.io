@@ -1,13 +1,13 @@
-title: Andy Chiang
+title: Brendon Ocampo
 description: A Place For Projects & Blog Posts
 
 baseurl: 
 #"/cayman-blog" 
 # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://toshtato.github.io" 
+url: "https://brendon919.github.io" 
 # change this to the base hostname & protocol for your site
 
-google_analytics: "UA-169246155-1"
+google_analytics: ""
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -18,7 +18,7 @@ theme:
 # leave it empty
 
 # social
-author: toshtato
+author: Brendon Ocampo
 image: /thumbnail-jumbo.png
 twitter:
   username: toshtato
